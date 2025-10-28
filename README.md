@@ -48,7 +48,7 @@
 
 ## 🏆 Achievements & Hackathons
 
-- 🥇 Winner at HackXYZ 2024 – Built a voice-controlled emergency caller AI.
+- 🥇 Winner at House of Turing – Built a voice-controlled emergency caller AI.
 - 🧪 Built a **Bluetooth Smart Curtain** system with automatic motor control.
 - ⚙️ Created **Smart Reminder AI** that generates daily routines and reminders automatically.
 - 🤖 Developed **WePlay Detector App** to monitor users stealthily for specific gaming behavior.
