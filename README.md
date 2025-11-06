@@ -51,9 +51,13 @@
 - 🥇 Winner at House of Turing – Built a voice-controlled emergency caller AI.
 - 🧪 Built a **Bluetooth Smart Curtain** system with automatic motor control.
 - ⚙️ Created **Smart Reminder AI** that generates daily routines and reminders automatically.
-- 🤖 Developed **WePlay Detector App** to monitor users stealthily for specific gaming behavior.
+- 🤖 Achieved **Top 10** among 1800 teams at **IIT ROPAR GEN AI HACKATHON**.
 
 ---
+
+## Holopin Badges
+
+![An image of @richkeed's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/richkeed)
 
 ## 📊 GitHub Stats
 
