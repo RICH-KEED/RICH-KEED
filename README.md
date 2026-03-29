@@ -103,6 +103,12 @@ open_to   : Collabs & Hackathons
   <img src="https://streak-stats.demolab.com/?user=RICH-KEED&theme=gotham&hide_border=true&background=0d1117" width="60%"/>
 </div>
 
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RICH-KEED&theme=github-dark&bg_color=0d1117&color=9e9e9e&line=4e4e4e&point=6e6e6e&hide_border=true&area=true&area_color=262626" width="95%"/>
+</div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <h2 align="center">🚀 Featured Projects</h2>
