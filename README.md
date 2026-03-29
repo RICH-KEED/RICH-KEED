@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&color=161b22,161b22,0d1117&text=Hey%2C%20I'm%20Abhineet&fontSize=55&fontColor=ffffff&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Backend%20Developer%20%E2%80%A2%20Hackathon%20Warrior&descSize=16&descAlignY=72&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=161b22,161b22,0d1117&bg=0d1117&text=Hey%2C%20I'm%20Abhineet&fontSize=55&fontColor=ffffff&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Backend%20Developer%20%E2%80%A2%20Hackathon%20Warrior&descSize=16&descAlignY=72&animation=fadeIn" width="100%"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&height=40&lines=Building+RAG+pipelines+over+satellite+data+%F0%9F%9B%B0%EF%B8%8F;Computer+Vision+for+geospatial+analysis+%F0%9F%8C%8D;Backend+systems+that+don%27t+fall+over+%E2%9A%99%EF%B8%8F;Top+10+%2F+1800+%40+IIT+Ropar+Gen+AI+Hackathon+%F0%9F%9A%80" alt="Typing SVG"/>
